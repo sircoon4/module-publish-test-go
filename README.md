@@ -1,0 +1,1 @@
+# module-publish-test-go
